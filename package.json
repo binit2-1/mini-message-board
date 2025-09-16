@@ -18,6 +18,7 @@
   "homepage": "https://github.com/binit2-1/mini-message-board#readme",
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
